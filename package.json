@@ -1,0 +1,21 @@
+{
+  "name": "vis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "Promise": "^1.0.5",
+    "billboard.js": "^1.7.1",
+    "bluebird": "^3.5.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "from": "^0.1.7",
+    "import": "0.0.6",
+    "sqlite": "^3.0.0"
+  }
+}
